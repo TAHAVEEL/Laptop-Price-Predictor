@@ -1,11 +1,1 @@
-				mca 
-passing by ref
-passing by arg
-control statement
-pointer
-abstraction--- hiding true implementation
-encapsulation---hiding data for the purpose of protection
-inheritance---
-polymorphism ----representation difference forms two types--| compile time polymorphism 
-			      |run time polymorphism
 
